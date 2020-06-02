@@ -1,5 +1,5 @@
 # Flutter-Course-Resources
-
+Dart与Google Flutter团队合作创建的，涵盖Flutter开发的所有基本概念，将教您如何使用Dart进行编码， 以及如何构建 美观，快速，原生质量的 iOS和Android应用程序，即便你没有基础也能听的懂，此外，你还将构建超过15种成熟的应用程序，包括使用Firebase Cloud Firestore，StreamBuilder，ListView，这份课程udemy上有视频版，不过需要付费才可以观看。
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
